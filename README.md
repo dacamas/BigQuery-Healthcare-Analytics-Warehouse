@@ -4,6 +4,11 @@ A production-style data warehouse built entirely in BigQuery SQL, using real pub
 
 ---
 
+## Tableau Dashboard Link:
+https://public.tableau.com/app/profile/dylan.camas/viz/USHealthcareCostAnalyticsCMSMedicare/Dashboard1
+
+---
+
 ## Architecture
 
 ```
